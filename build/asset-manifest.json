@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6681954.css",
-    "main.js": "/static/js/main.073205b6.js",
-    "static/js/787.b842ed0e.chunk.js": "/static/js/787.b842ed0e.chunk.js",
-    "static/media/about.png": "/static/media/about.cb81230d3c8a2dc8fb3c.png",
-    "static/media/pngwing.com.png": "/static/media/pngwing.com.207750ee05e660268ad4.png",
-    "static/media/Lamborghini.png": "/static/media/Lamborghini.946eedd0c6d68667ad48.png",
-    "static/media/car4.png": "/static/media/car4.20b994046e4fd80e796e.png",
-    "static/media/car1.png": "/static/media/car1.656f9466a0737c821c40.png",
-    "static/media/car6.png": "/static/media/car6.17e61c3aa8f6c7e63a17.png",
-    "static/media/car3.png": "/static/media/car3.3b69e5288b6006a61347.png",
-    "static/media/car7.png": "/static/media/car7.2017f096e428cdddfd4e.png",
-    "static/media/car5.png": "/static/media/car5.eba54303203e308ccff4.png",
-    "static/media/car2.png": "/static/media/car2.625406ccc2b687705aee.png",
-    "static/media/footer.jpg": "/static/media/footer.53c0a36e1dca9948b2d0.jpg",
-    "static/media/mercedes.png": "/static/media/mercedes.eb17e1029789c1775280.png",
-    "index.html": "/index.html",
-    "main.b6681954.css.map": "/static/css/main.b6681954.css.map",
-    "main.073205b6.js.map": "/static/js/main.073205b6.js.map",
-    "787.b842ed0e.chunk.js.map": "/static/js/787.b842ed0e.chunk.js.map"
+    "main.css": "./static/css/main.be6f5b9a.css",
+    "main.js": "./static/js/main.23a5aa2a.js",
+    "static/js/787.b842ed0e.chunk.js": "./static/js/787.b842ed0e.chunk.js",
+    "static/media/about.png": "./static/media/about.cb81230d3c8a2dc8fb3c.png",
+    "static/media/pngwing.com.png": "./static/media/pngwing.com.207750ee05e660268ad4.png",
+    "static/media/Lamborghini.png": "./static/media/Lamborghini.946eedd0c6d68667ad48.png",
+    "static/media/car4.png": "./static/media/car4.20b994046e4fd80e796e.png",
+    "static/media/car1.png": "./static/media/car1.656f9466a0737c821c40.png",
+    "static/media/car6.png": "./static/media/car6.17e61c3aa8f6c7e63a17.png",
+    "static/media/car3.png": "./static/media/car3.3b69e5288b6006a61347.png",
+    "static/media/car7.png": "./static/media/car7.2017f096e428cdddfd4e.png",
+    "static/media/car5.png": "./static/media/car5.eba54303203e308ccff4.png",
+    "static/media/car2.png": "./static/media/car2.625406ccc2b687705aee.png",
+    "static/media/footer.jpg": "./static/media/footer.53c0a36e1dca9948b2d0.jpg",
+    "static/media/mercedes.png": "./static/media/mercedes.eb17e1029789c1775280.png",
+    "index.html": "./index.html",
+    "main.be6f5b9a.css.map": "./static/css/main.be6f5b9a.css.map",
+    "main.23a5aa2a.js.map": "./static/js/main.23a5aa2a.js.map",
+    "787.b842ed0e.chunk.js.map": "./static/js/787.b842ed0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6681954.css",
-    "static/js/main.073205b6.js"
+    "static/css/main.be6f5b9a.css",
+    "static/js/main.23a5aa2a.js"
   ]
 }
